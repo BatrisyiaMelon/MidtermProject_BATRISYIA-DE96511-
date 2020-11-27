@@ -1,0 +1,106 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Nov 27 22:56:35 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x00049c
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x0004b3      
+            1186 out of 33048 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   AGAIN1   0x0002b6    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                   AGAIN2   0x0002ba    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    CHECK   0x00002e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                   CHECK1   0x000034    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+               CONFG_LCD1   0x00026e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+               CONFG_LCD2   0x000290    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                DELAY1SEC   0x0002b2    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY#   0x0001ae    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY0   0x0001a2    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY1   0x00012a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY2   0x000136    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY3   0x000142    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY4   0x00014e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY5   0x00015a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY6   0x000166    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY7   0x000172    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY8   0x00017e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY9   0x00018a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                  KEYSTAR   0x000196    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW#   0x00011a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW0   0x00010a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW1   0x00006a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW2   0x00007a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW3   0x00008a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW4   0x00009a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW5   0x0000aa    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW6   0x0000ba    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW7   0x0000ca    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW8   0x0000da    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW9   0x0000ea    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                   SHOWID   0x00020e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                 SHOWNAME   0x0001ba    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                 SHOWStar   0x0000fa    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+             WriteCOMMAND   0x000252    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                WriteDATA   0x000260    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    start   0x00001a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    CHECK   0x00002e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                   CHECK1   0x000034    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW1   0x00006a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW2   0x00007a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW3   0x00008a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW4   0x00009a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW5   0x0000aa    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW6   0x0000ba    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW7   0x0000ca    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW8   0x0000da    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW9   0x0000ea    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                 SHOWStar   0x0000fa    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW0   0x00010a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                    SHOW#   0x00011a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY1   0x00012a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY2   0x000136    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY3   0x000142    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY4   0x00014e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY5   0x00015a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY6   0x000166    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY7   0x000172    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY8   0x00017e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY9   0x00018a    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                  KEYSTAR   0x000196    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY0   0x0001a2    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                     KEY#   0x0001ae    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                 SHOWNAME   0x0001ba    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                   SHOWID   0x00020e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+             WriteCOMMAND   0x000252    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                WriteDATA   0x000260    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+               CONFG_LCD1   0x00026e    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+               CONFG_LCD2   0x000290    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                DELAY1SEC   0x0002b2    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                   AGAIN1   0x0002b6    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+                   AGAIN2   0x0002ba    program     static C:\Users\HPuser\Desktop\MidtermProject\TrialErrorProject.asm
+
+
